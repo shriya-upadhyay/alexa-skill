@@ -1,3 +1,3 @@
-# alexa-skill
+# alexa-skill - by Shriya and Shubhi Upadhyay
 
-#creating alexa skill to answer questions about Onyx by JPM 
+## Created an Alexa skill to answer questions about Onyx by JPM 
